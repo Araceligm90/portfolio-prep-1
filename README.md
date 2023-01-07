@@ -26,24 +26,24 @@ Tech is always changing and evolving everyday. There's always something new to l
 
 ## Simon Says Project
 
-[Game Board](images/Screen%20Shot%202023-01-07%20at%203.25.41%20AM.png)
+[Game Board](images/Gameboard.png)
 
-[Leaderboard](images/Screen%20Shot%202023-01-07%20at%203.26.37%20AM.png)
+[Leaderboard](images/Leaderboard.png)
 
-[Background Selector](images/Screen%20Shot%202023-01-07%20at%203.28.09%20AM.png)
+[Background Selector](images/BackgroundSelector.png)
 
 ## Salmon Cookies
 
-[Image 1](images/Screen%20Shot%202023-01-07%20at%203.32.04%20AM.png)
+[Image 1](images/SalmonCookies1.png)
 
-[Image 2](images/Screen%20Shot%202023-01-07%20at%203.32.22%20AM.png)
+[Image 2](images/SalmonCookies2.png)
 
-[Image 3](images/Screen%20Shot%202023-01-07%20at%203.32.39%20AM.png)
+[Image 3](images/SalmonCookies3.png)
 
 ## Odd Ducks
 
-[Image 1](images/Screen%20Shot%202023-01-07%20at%203.34.21%20AM.png)
+[Image 1](images/OddDuck1.png)
 
-[Image 2](images/Screen%20Shot%202023-01-07%20at%203.35.33%20AM.png)
+[Image 2](images/OddDuck2.png)
 
-[Image 3](images/Screen%20Shot%202023-01-07%20at%203.36.35%20AM.png)
+[Image 3](images/OddDuck3.png)
